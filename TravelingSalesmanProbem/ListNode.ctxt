@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListNode()
+comment0.text=Default\ Constructor
+comment1.params=p\ front\ back
+comment1.target=ListNode(Point,\ ListNode,\ ListNode)
+comment1.text=Constructor
+comment2.params=n
+comment2.target=void\ setLinkNext(ListNode)
+comment2.text=Sets\ what\ the\ node\ points\ ahead\ to
+comment3.params=p
+comment3.target=void\ setLinkPrev(ListNode)
+comment3.text=Sets\ what\ the\ node\ points\ behind\ to
+comment4.params=
+comment4.target=ListNode\ getLinkNext()
+comment4.text=Gets\ what\ the\ node\ points\ ahead\ to
+comment5.params=
+comment5.target=ListNode\ getLinkPrev()
+comment5.text=Gets\ what\ the\ node\ points\ behind\ to
+comment6.params=d
+comment6.target=void\ setData(Point)
+comment6.text=Sets\ the\ nodes\ data\ (Point)
+comment7.params=
+comment7.target=Point\ getData()
+comment7.text=Gets\ the\ nodes\ data\ (Point)
+numComments=8
